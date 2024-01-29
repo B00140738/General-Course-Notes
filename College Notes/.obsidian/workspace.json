@@ -6,6 +6,7 @@
       {
         "id": "51eeaf427808d7b2",
         "type": "tabs",
+        "dimension": 53.98481973434534,
         "children": [
           {
             "id": "e739275e9000ffc8",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Framework Development/Symfony.md",
+                "file": "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,6 +25,7 @@
       {
         "id": "70ab6b7ef575e9c9",
         "type": "tabs",
+        "dimension": 46.01518026565465,
         "children": [
           {
             "id": "6b756243eb1c165c",
@@ -62,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#webframeworkdevelopme",
+                "query": "tag:#Symfony",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,12 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 255.5
   },
   "right": {
     "id": "3ef09807a21c4538",
@@ -100,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Framework Development/Symfony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Framework Development/Symfony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web Framework Development/Symfony.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,17 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e739275e9000ffc8",
+  "active": "6b756243eb1c165c",
   "lastOpenFiles": [
-    "Web Framework Development/Web Framework Development - Introduction.md",
+    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
+    "Object Orientated Desgin Patterns/Chain of Responsibility.md",
+    "Object Orientated Desgin Patterns/Builder.md",
+    "Object Orientated Desgin Patterns/Bridge.md",
+    "Object Orientated Desgin Patterns/Design Patterns.md",
+    "Object Orientated Desgin Patterns/Adapter.md",
+    "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Web Framework Development/Symfony.md",
+    "Web Framework Development/Web Framework Development - Introduction.md",
     "Web Framework Development/Unit Testing.md",
     "Web Framework Development/Twig.md",
-    "Factory.md",
     "Web Framework Development/CRUD.md",
     "Web Framework Development/Composer.md",
     "Web Framework Development/Laravel.md",
-    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Welcome.md"
   ]
 }
