@@ -1,0 +1,1 @@
+This is the introduction page for the Web Framework Development Module. The aim of this module is the give you a deeper understanding of how to develop modern websites using frameworks/Command-line tools such as [[Laravel]], [[Composer]] and [[Symfony]]. 

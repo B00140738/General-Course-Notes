@@ -13,10 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Framework Development/Web Framework Development - Introduction.md",
+                "file": "Web Framework Development/Symfony.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "70ab6b7ef575e9c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b756243eb1c165c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#webframeworkdevelopme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Framework Development/Web Framework Development - Introduction.md",
+                "file": "Web Framework Development/Symfony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Framework Development/Web Framework Development - Introduction.md",
+                "file": "Web Framework Development/Symfony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Framework Development/Web Framework Development - Introduction.md"
+                "file": "Web Framework Development/Symfony.md"
               }
             }
           }
@@ -148,8 +163,15 @@
   },
   "active": "e739275e9000ffc8",
   "lastOpenFiles": [
-    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Web Framework Development/Web Framework Development - Introduction.md",
+    "Web Framework Development/Symfony.md",
+    "Web Framework Development/Unit Testing.md",
+    "Web Framework Development/Twig.md",
+    "Factory.md",
+    "Web Framework Development/CRUD.md",
+    "Web Framework Development/Composer.md",
+    "Web Framework Development/Laravel.md",
+    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Welcome.md"
   ]
 }
