@@ -5,7 +5,7 @@ This module aims to examine the following:
 
 ### [[Abstract Factory]]
 
-This provides **an interface for creating families of related, or dependant, objects without specifying their concrete classes**. One such example is the use of a "mouseFactory" used during PHP-based Web Development with tools such as Symfony. 
+This provides **an interface for creating families of related, or dependent, objects without specifying their concrete classes**. One such example is the use of a "mouseFactory" used during PHP-based Web Development with tools such as Symfony. 
 
 In this, **the "mouseFactory" object/class extends its parent, the original abstract Factory class**. Through this **objects can be easily and dynamically instantiated**.
 
@@ -23,6 +23,12 @@ This Design Pattern **separates the construction of a complex object from its re
 
 ### [[Chain of Responsibility]]
 
+
+
+
+---
+
+#OODP #Design-Patterns
 
 
 

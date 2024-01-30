@@ -20,6 +20,20 @@
         "a": 1,
         "rgb": 1753404
       }
+    },
+    {
+      "query": "path:\"Troubleshooting IP Networks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16384037
+      }
+    },
+    {
+      "query": "path:\"Network Distributed Computing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2414102821370465,
+  "scale": 0.92969155680601,
   "close": true
 }
