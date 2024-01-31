@@ -6,6 +6,7 @@
       {
         "id": "51eeaf427808d7b2",
         "type": "tabs",
+        "dimension": 53.98481973434534,
         "children": [
           {
             "id": "e739275e9000ffc8",
@@ -22,11 +23,12 @@
         ]
       },
       {
-        "id": "bc19004244de27a4",
+        "id": "70ab6b7ef575e9c9",
         "type": "tabs",
+        "dimension": 46.01518026565466,
         "children": [
           {
-            "id": "0229be3e7b85fd4f",
+            "id": "6b756243eb1c165c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -62,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Symfony",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Object Orientated Desgin Patterns/Builder.md"
+              }
             }
           }
         ]
@@ -156,17 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0229be3e7b85fd4f",
+  "active": "e739275e9000ffc8",
   "lastOpenFiles": [
     "Troubleshooting IP Networks/Troubleshooting IP Networks - Introduction.md",
+    "Troubleshooting IP Networks",
     "Network Distributed Computing/Troubleshooting DHCP Networks.md",
-    "Object Orientated Desgin Patterns/Builder.md",
-    "Object Orientated Desgin Patterns/Abstract Factory.md",
-    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Network Distributed Computing/Network Distributed Computing - Introduction.md",
+    "Network Distributed Computing",
+    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
+    "Object Orientated Desgin Patterns/Abstract Factory.md",
+    "Object Orientated Desgin Patterns/Design Patterns.md",
+    "Object Orientated Desgin Patterns/Builder.md",
     "Object Orientated Desgin Patterns/Chain of Responsibility.md",
     "Object Orientated Desgin Patterns/Bridge.md",
-    "Object Orientated Desgin Patterns/Design Patterns.md",
     "Object Orientated Desgin Patterns/Adapter.md",
     "Web Framework Development/Symfony.md",
     "Web Framework Development/Web Framework Development - Introduction.md",
