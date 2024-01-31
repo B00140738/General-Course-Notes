@@ -6,7 +6,7 @@
       {
         "id": "51eeaf427808d7b2",
         "type": "tabs",
-        "dimension": 53.98481973434534,
+        "dimension": 57.61821366024519,
         "children": [
           {
             "id": "e739275e9000ffc8",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Builder.md",
+                "file": "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "70ab6b7ef575e9c9",
         "type": "tabs",
-        "dimension": 46.01518026565466,
+        "dimension": 42.38178633975482,
         "children": [
           {
             "id": "6b756243eb1c165c",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 210.5
   },
   "right": {
     "id": "3ef09807a21c4538",
@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Object Orientated Desgin Patterns/Builder.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,27 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e739275e9000ffc8",
+  "active": "6b756243eb1c165c",
   "lastOpenFiles": [
-    "Troubleshooting IP Networks/Troubleshooting IP Networks - Introduction.md",
-    "Troubleshooting IP Networks",
-    "Network Distributed Computing/Troubleshooting DHCP Networks.md",
-    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
-    "Network Distributed Computing",
+    "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting BGP & eBGP Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting eBGP Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting BGP Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting OSPF Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting Dual-Stacked Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting IPv6 Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting IPv4 Networks.md",
+    "Troubleshooting IP Networks/Troubleshooting DHCP Networks.md",
     "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
-    "Object Orientated Desgin Patterns/Design Patterns.md",
+    "Object Orientated Desgin Patterns/Inheritance.md",
+    "Object Orientated Desgin Patterns/Abstraction.md",
+    "Object Orientated Desgin Patterns/Concrete Classes.md",
+    "Object Orientated Desgin Patterns/Polymorphism.md",
+    "Object Orientated Desgin Patterns/Method Overriding.md",
     "Object Orientated Desgin Patterns/Builder.md",
+    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
+    "Troubleshooting IP Networks",
+    "Network Distributed Computing",
+    "Object Orientated Desgin Patterns/Design Patterns.md",
     "Object Orientated Desgin Patterns/Chain of Responsibility.md",
     "Object Orientated Desgin Patterns/Bridge.md",
     "Object Orientated Desgin Patterns/Adapter.md",
     "Web Framework Development/Symfony.md",
     "Web Framework Development/Web Framework Development - Introduction.md",
     "Web Framework Development/Unit Testing.md",
-    "Web Framework Development/Twig.md",
-    "Web Framework Development/CRUD.md",
-    "Web Framework Development/Composer.md",
-    "Web Framework Development/Laravel.md",
-    "Welcome.md"
+    "Web Framework Development/Twig.md"
   ]
 }

@@ -1,6 +1,14 @@
 
 This is the introduction page for the "Object Orientation with Design Patterns", or OODP, module. This module aims to explain all 23 [[Design Patterns]] and provide examples of how each are used to solve real world problems or provide an elegant alternative to solutions offered at the moment.
 
+This module expects you to have a solid grasp/understanding of the following modules:
+
+- [[Inheritance]]
+- [[Abstraction]]
+- [[Polymorphism]]
+- [[Concrete Classes]]
+- [[Method Overriding]]
+
 This module aims to examine the following:
 
 ### [[Abstract Factory]]
