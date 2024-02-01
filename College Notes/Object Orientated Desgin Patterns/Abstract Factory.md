@@ -1,4 +1,4 @@
-The "Abstract Factory" Design Pattern allows us to **easily create families of related, or dependent, objects without specifying their concrete classes**. 
+The "Abstract Factory" Design Pattern allows us to **easily create families of related, or dependent, objects without specifying their concrete classes**. It does so through the use of [[Inheritance]], [[Polymorphism]] and [[Method Overriding]].
 
 In simpler terms, **the Abstract Factory pattern helps in creating objects that belong to a common family and ensures that these objects are compatible with each other**. It promotes flexibility and extensibility by **allowing the client code to work with abstract interfaces instead of specific classes**, enabling easy substitution of entire families of objects without altering the client code.
 
@@ -34,4 +34,4 @@ The key components of the Abstract Factory pattern include:
 T**he Abstract Factory pattern is particularly useful in scenarios where the system needs to be independent of how its objects are created**, composed, and represented, and the system is configured with multiple families of objects.
 
 ---
-#OODP  #Abstract-Factory #Creational  #Design-Patterns
+#OODP  #Abstract-Factory #Creational  #Design-Patterns #Polymorphism #Method-Overriding #Inheritance
