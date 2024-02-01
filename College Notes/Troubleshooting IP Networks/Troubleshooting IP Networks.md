@@ -1,6 +1,16 @@
 
 
 
+This module assumes you have a general idea of the following:
+
+- [[IPv4]]
+- [[IPv6]]
+- [[OSPF]]
+- [[BGP]]
+- [[eBGP]]
+- [[Dual-Stack Networks]]
+
+
 This module will cover the following:
 
 - [[Troubleshooting IPv4 Networks]]
