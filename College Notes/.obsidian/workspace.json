@@ -138,8 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74ea35d8ba2ca5cd",
+  "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
+    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
+    "Object Orientated Desgin Patterns/Builder.md",
+    "Object Orientated Desgin Patterns/Polymorphism.md",
+    "Object Orientated Desgin Patterns/Abstract Factory.md",
+    "Network Distributed Computing/Design Goals.md",
+    "Network Distributed Computing/Architecture.md",
+    "Network Distributed Computing/Message Passing.md",
+    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
+    "Network Distributed Computing/Node.md",
     "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
     "Troubleshooting IP Networks/Dual-Stack Networks.md",
     "Troubleshooting IP Networks/IPv6.md",
@@ -148,11 +157,7 @@
     "Troubleshooting IP Networks/eBGP.md",
     "Troubleshooting IP Networks/Troubleshooting DHCP Networks.md",
     "Troubleshooting IP Networks/BGP.md",
-    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
-    "Object Orientated Desgin Patterns/Abstract Factory.md",
-    "Object Orientated Desgin Patterns/Builder.md",
     "Troubleshooting IP Networks/Troubleshooting IP Networks - Introduction.md",
-    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Object Orientated Desgin Patterns/Chain of Responsibility.md",
     "Object Orientated Desgin Patterns/Bridge.md",
     "Object Orientated Desgin Patterns/Design Patterns.md",
@@ -160,10 +165,6 @@
     "Web Framework Development/Symfony.md",
     "Web Framework Development/Web Framework Development - Introduction.md",
     "Web Framework Development/Unit Testing.md",
-    "Web Framework Development/Twig.md",
-    "Web Framework Development/CRUD.md",
-    "Web Framework Development/Composer.md",
-    "Web Framework Development/Laravel.md",
-    "Welcome.md"
+    "Web Framework Development/Twig.md"
   ]
 }

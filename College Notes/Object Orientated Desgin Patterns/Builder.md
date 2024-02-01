@@ -14,7 +14,7 @@ Builder pattern aims to **separate the construction of a complex object from its
 			public void setInterior(String interior);
 		}
 
-2. **Builder –** This abstract base class defines all of the steps that must be taken in order to correctly create a product. Each step is generally abstract as the actual functionality of the builder is carried out in the concrete subclasses. The GetProduct method is used to return the final product. The builder class is often replaced with a simple interface.
+2. **Builder –** This abstract base class defines all of the steps that must be taken in order to correctly create a product. Each step is generally abstract as the actual functionality of the builder is carried out in the concrete subclasses. The getProduct method is used to return the final product. The builder class is often replaced with a simple interface.
 
 		class House implements HousePlan {
 
@@ -45,7 +45,7 @@ Builder pattern aims to **separate the construction of a complex object from its
 			
 		}
 
-4. **Director –** The director-class controls the algorithm that generates the final product object. A director object is instantiated and its Construct method is called. The method includes a parameter to capture the specific concrete builder object that is to be used to generate the product. The director then calls methods of the concrete builder in the correct order to generate the product object. On completion of the process, the GetProduct method of the builder object can be used to return the product.
+4. **Director –** The director-class controls the algorithm that generates the final product object. A director object is instantiated and its Construct method is called. The method includes a parameter to capture the specific concrete builder object that is to be used to generate the product. The director then calls methods of the concrete builder in the correct order to generate the product object. On completion of the process, the getProduct method of the builder object can be used to return the product.
 
 
 ### Advantages of Builder Design pattern
