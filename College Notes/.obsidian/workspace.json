@@ -11,8 +11,12 @@
             "id": "f3ff188eed5387b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Network Distributed Computing/Network Distributed Computing - Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Network Distributed Computing/Network Distributed Computing - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Network Distributed Computing/Network Distributed Computing - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Network Distributed Computing/Network Distributed Computing - Introduction.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74ea35d8ba2ca5cd",
+  "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
     "Network Distributed Computing/Bitcoin.md",
     "Network Distributed Computing/Network Distributed Computing - Introduction.md",
