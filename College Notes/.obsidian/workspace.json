@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Abstract Factory.md",
+                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Abstract Factory.md",
+                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Abstract Factory.md",
+                "file": "Object Orientated Desgin Patterns/Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object Orientated Desgin Patterns/Abstract Factory.md"
+                "file": "Object Orientated Desgin Patterns/Builder.md"
               }
             }
           }
@@ -148,14 +148,17 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
-    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
     "Network Distributed Computing/Bitcoin.md",
+    "Object Orientated Desgin Patterns/Builder.md",
+    "Untitled",
+    "Object Orientated Desgin Patterns/Bridge.md",
+    "Object Orientated Desgin Patterns/Abstraction.md",
+    "Object Orientated Desgin Patterns/Abstract Factory.md",
+    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
     "Network Distributed Computing/Blockchain.md",
     "Network Distributed Computing/Peer-to-Peer Systems.md",
     "Network Distributed Computing/Bitcoin Distributed Systems.md",
     "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
-    "Object Orientated Desgin Patterns/Abstract Factory.md",
-    "Object Orientated Desgin Patterns/Builder.md",
     "Object Orientated Desgin Patterns/Polymorphism.md",
     "Network Distributed Computing/Design Goals.md",
     "Network Distributed Computing/Architecture.md",
@@ -170,9 +173,6 @@
     "Troubleshooting IP Networks/Troubleshooting DHCP Networks.md",
     "Troubleshooting IP Networks/BGP.md",
     "Troubleshooting IP Networks/Troubleshooting IP Networks - Introduction.md",
-    "Object Orientated Desgin Patterns/Chain of Responsibility.md",
-    "Object Orientated Desgin Patterns/Bridge.md",
-    "Object Orientated Desgin Patterns/Design Patterns.md",
-    "Object Orientated Desgin Patterns/Adapter.md"
+    "Object Orientated Desgin Patterns/Chain of Responsibility.md"
   ]
 }
