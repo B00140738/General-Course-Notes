@@ -11,8 +11,12 @@
             "id": "f3ff188eed5387b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Object Orientated Desgin Patterns/Abstract Factory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Object Orientated Desgin Patterns/Abstract Factory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Object Orientated Desgin Patterns/Abstract Factory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Object Orientated Desgin Patterns/Abstract Factory.md"
+              }
             }
           }
         ]
@@ -140,15 +148,16 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
+    "Troubleshooting IP Networks/Troubleshooting Dual-Stacked Networks.md",
+    "Object Orientated Desgin Patterns/Abstract Factory.md",
+    "Object Orientated Desgin Patterns/Builder.md",
     "Functional Programming/String Tokenizer.md",
     "Functional Programming/Data Types.md",
     "Functional Programming/Converting from Integer to Hex.md",
-    "Object Orientated Desgin Patterns/Builder.md",
     "Functional Programming/Functional Programming.md",
     "Functional Programming/Non-Concrete Constructors.md",
     "Functional Programming/How to check the start of a String.md",
     "Functional Programming.md",
-    "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Functional Programming",
     "Network Distributed Computing/Peer-to-Peer Systems.md",
     "Network Distributed Computing/Bitcoin.md",
@@ -165,7 +174,6 @@
     "Network Distributed Computing/Node.md",
     "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
     "Troubleshooting IP Networks/Dual-Stack Networks.md",
-    "Troubleshooting IP Networks/IPv6.md",
-    "Troubleshooting IP Networks/IPv4.md"
+    "Troubleshooting IP Networks/IPv6.md"
   ]
 }
