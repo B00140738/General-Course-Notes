@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Object Orientated Desgin Patterns\"  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16766208
       }
+    },
+    {
+      "query": "path:\"Functional Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1575404
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6844708004644519,
+  "scale": 0.6749477635917851,
   "close": true
 }
