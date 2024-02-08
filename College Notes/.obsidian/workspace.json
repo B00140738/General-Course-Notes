@@ -11,8 +11,12 @@
             "id": "f3ff188eed5387b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md"
+              }
             }
           }
         ]
@@ -140,13 +148,19 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
+    "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
+    "Functional Programming/System Property.md",
+    "Functional Programming/Functional Programming.md",
+    "Artificial Intelligence (AI)/Artificial Intelligence.md",
+    "Artificial Intelligence (AI)/Computer Vision/Computer Vision.md",
+    "Artificial Intelligence (AI)/Computer Vision",
+    "Artificial Intelligence (AI)",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Object Orientated Desgin Patterns/Builder.md",
     "Troubleshooting IP Networks/Troubleshooting Dual-Stacked Networks.md",
     "Functional Programming/Converting from Integer to Hex.md",
     "Functional Programming/String Tokenizer.md",
     "Functional Programming/Data Types.md",
-    "Functional Programming/Functional Programming.md",
     "Functional Programming/Non-Concrete Constructors.md",
     "Functional Programming/How to check the start of a String.md",
     "Functional Programming.md",
@@ -162,10 +176,6 @@
     "Object Orientated Desgin Patterns/Polymorphism.md",
     "Network Distributed Computing/Design Goals.md",
     "Network Distributed Computing/Architecture.md",
-    "Network Distributed Computing/Message Passing.md",
-    "Network Distributed Computing/Node.md",
-    "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
-    "Troubleshooting IP Networks/Dual-Stack Networks.md",
-    "Troubleshooting IP Networks/IPv6.md"
+    "Network Distributed Computing/Message Passing.md"
   ]
 }

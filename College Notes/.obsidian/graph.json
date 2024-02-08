@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Object Orientated Desgin Patterns\"  ",
@@ -40,6 +40,20 @@
       "color": {
         "a": 1,
         "rgb": 1575404
+      }
+    },
+    {
+      "query": "path:\"Artificial Intelligence (AI)/Computer Vision\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"Artificial Intelligence (AI)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
