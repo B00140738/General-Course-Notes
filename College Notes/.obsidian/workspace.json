@@ -11,8 +11,12 @@
             "id": "f3ff188eed5387b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence (AI)/TensorFlow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence (AI)/TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence (AI)/TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Artificial Intelligence (AI)/TensorFlow.md"
+              }
             }
           }
         ]
@@ -140,16 +148,19 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
+    "Artificial Intelligence (AI)/Neural Network.md",
+    "Artificial Intelligence (AI)/Tensor.md",
+    "Object Orientated Desgin Patterns/Builder.md",
+    "Artificial Intelligence (AI)/Artificial Intelligence.md",
+    "Artificial Intelligence (AI)/TensorFlow.md",
     "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
     "Artificial Intelligence (AI)/Human Language Technologies",
     "Functional Programming/System Property.md",
     "Functional Programming/Functional Programming.md",
-    "Artificial Intelligence (AI)/Artificial Intelligence.md",
     "Artificial Intelligence (AI)/Computer Vision/Computer Vision.md",
     "Artificial Intelligence (AI)/Computer Vision",
     "Artificial Intelligence (AI)",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
-    "Object Orientated Desgin Patterns/Builder.md",
     "Troubleshooting IP Networks/Troubleshooting Dual-Stacked Networks.md",
     "Functional Programming/Converting from Integer to Hex.md",
     "Functional Programming/String Tokenizer.md",
@@ -166,8 +177,6 @@
     "Network Distributed Computing/Blockchain.md",
     "Network Distributed Computing/Bitcoin Distributed Systems.md",
     "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
-    "Object Orientated Desgin Patterns/Polymorphism.md",
-    "Network Distributed Computing/Design Goals.md",
-    "Network Distributed Computing/Architecture.md"
+    "Object Orientated Desgin Patterns/Polymorphism.md"
   ]
 }
