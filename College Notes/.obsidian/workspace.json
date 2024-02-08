@@ -11,12 +11,8 @@
             "id": "f3ff188eed5387b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,6 +141,7 @@
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
     "Artificial Intelligence (AI)/Computer Vision/High-Dimensional Data.md",
+    "Artificial Intelligence (AI)/Human Language Technologies",
     "Functional Programming/System Property.md",
     "Functional Programming/Functional Programming.md",
     "Artificial Intelligence (AI)/Artificial Intelligence.md",
@@ -175,7 +168,6 @@
     "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
     "Object Orientated Desgin Patterns/Polymorphism.md",
     "Network Distributed Computing/Design Goals.md",
-    "Network Distributed Computing/Architecture.md",
-    "Network Distributed Computing/Message Passing.md"
+    "Network Distributed Computing/Architecture.md"
   ]
 }
