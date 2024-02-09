@@ -140,6 +140,12 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
+    "Artificial Intelligence (AI)/Computer Vision/Rescaling Images Using OpenCV.md",
+    "Artificial Intelligence (AI)/Computer Vision/OpenCV.md",
+    "Artificial Intelligence (AI)/Computer Vision/Reading Images Using OpenCV.md",
+    "Artificial Intelligence (AI)/Computer Vision/Reading Videos using OpenCV.md",
+    "Artificial Intelligence (AI)/Computer Vision/Caer.md",
+    "Artificial Intelligence (AI)/NumPy.md",
     "Artificial Intelligence (AI)/Artificial Intelligence.md",
     "Artificial Intelligence (AI)/Neural Network.md",
     "Artificial Intelligence (AI)/TensorFlow.md",
@@ -163,12 +169,6 @@
     "Functional Programming",
     "Network Distributed Computing/Peer-to-Peer Systems.md",
     "Network Distributed Computing/Bitcoin.md",
-    "Object Orientated Desgin Patterns/Bridge.md",
-    "Object Orientated Desgin Patterns/Abstraction.md",
-    "Network Distributed Computing/Network Distributed Computing - Introduction.md",
-    "Network Distributed Computing/Blockchain.md",
-    "Network Distributed Computing/Bitcoin Distributed Systems.md",
-    "Object Orientated Desgin Patterns/Object Orientated Design Patterns - Introduction.md",
-    "Object Orientated Desgin Patterns/Polymorphism.md"
+    "Object Orientated Desgin Patterns/Bridge.md"
   ]
 }
