@@ -1,0 +1,2 @@
+
+Lamport Timestamps don't use the standard clock in the traditional sense. This uses time as a timestamp for when an action is complete. For example, if it is 9:00 when a message is sent. the time on the node it is sent to will be updated from 9:00 to 9:01. This is because it takes one second for a message to be sent.

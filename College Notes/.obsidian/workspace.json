@@ -140,6 +140,9 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
+    "Network Distributed Computing/Real-Time Operating Systems.md",
+    "Network Distributed Computing/Message Passing.md",
+    "Network Distributed Computing/Lamport Timestamps.md",
     "Artificial Intelligence (AI)/Deep Learning.md",
     "Artificial Intelligence (AI)/Computer Vision/Rescaling Images Using OpenCV.md",
     "Artificial Intelligence (AI)/Computer Vision/OpenCV.md",
@@ -166,9 +169,6 @@
     "Functional Programming/Data Types.md",
     "Functional Programming/Non-Concrete Constructors.md",
     "Functional Programming/How to check the start of a String.md",
-    "Functional Programming.md",
-    "Functional Programming",
-    "Network Distributed Computing/Peer-to-Peer Systems.md",
-    "Network Distributed Computing/Bitcoin.md"
+    "Functional Programming"
   ]
 }
