@@ -1,0 +1,1 @@
+The find() function is used to **find/return the first occurrence of a specified string, prefix, substring or character in a string.** If no results are found, [[npos]] is returned instead. This can be used to find a certain combination of letters/pattern that is present in multiple words/an Array of strings/chars.

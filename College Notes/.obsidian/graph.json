@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Object Orientated Desgin Patterns\"  ",
@@ -54,6 +54,20 @@
       "color": {
         "a": 1,
         "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:C++  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:C  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
       }
     }
   ],
