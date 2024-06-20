@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Questions/9. Palindrome Number.md",
+                "file": "C++/Questions/31. Reverse Negative Integer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Questions/9. Palindrome Number.md",
+                "file": "C++/Questions/31. Reverse Negative Integer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Questions/9. Palindrome Number.md",
+                "file": "C++/Questions/31. Reverse Negative Integer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Questions/9. Palindrome Number.md"
+                "file": "C++/Questions/31. Reverse Negative Integer.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
-    "C++/Questions/20. Valid Parentheses.md",
-    "C++/Questions/9. Palindrome Number.md",
     "C++/Questions/13. Roman to Integer.md",
+    "C++/Questions/9. Palindrome Number.md",
+    "C++/Questions/7. Reverse Integer.md",
+    "C++/Strings in C++.md",
+    "C++/Questions/20. Valid Parentheses.md",
+    "C++/Questions/31. Reverse Negative Integer.md",
+    "C++/Positive and Negative Values.md",
     "C++/Unordered Maps.md",
     "C++/Stacks.md",
     "C++/find().md",
@@ -162,7 +166,6 @@
     "C++/Linked Lists.md",
     "C++/Vectors.md",
     "C++/Questions",
-    "C++/Strings in C++.md",
     "Troubleshooting IP Networks/BGP.md",
     "C/size_t.md",
     "Troubleshooting IP Networks/Dual-Stack Networks.md",
@@ -172,9 +175,6 @@
     "Troubleshooting IP Networks/Troubleshooting IPv4 Networks.md",
     "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
     "Troubleshooting IP Networks/Troubleshooting eBGP Networks.md",
-    "Troubleshooting IP Networks/IPv6.md",
-    "Troubleshooting IP Networks/eBGP.md",
-    "Web Framework Development/Composer.md",
     "Python",
     "C",
     "C++",
