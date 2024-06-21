@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Questions/31. Reverse Negative Integer.md",
+                "file": "C++/Questions/32. Reverse Linked List Total.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Questions/31. Reverse Negative Integer.md",
+                "file": "C++/Questions/32. Reverse Linked List Total.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Questions/31. Reverse Negative Integer.md",
+                "file": "C++/Questions/32. Reverse Linked List Total.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Questions/31. Reverse Negative Integer.md"
+                "file": "C++/Questions/32. Reverse Linked List Total.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
-    "C++/Questions/7. Reverse Integer.md",
     "C++/Questions/31. Reverse Negative Integer.md",
     "C++/Questions/32. Reverse Linked List Total.md",
+    "C++/Questions/20. Valid Parentheses.md",
+    "C++/Questions/14. Longest Common Prefix.md",
     "C++/Questions/13. Roman to Integer.md",
     "C++/Questions/9. Palindrome Number.md",
-    "C++/Strings in C++.md",
-    "C++/Questions/20. Valid Parentheses.md",
+    "C++/Questions/7. Reverse Integer.md",
+    "C++/Reverse-Traverse a Singly Linked List.md",
     "C++/Positive and Negative Values.md",
+    "C++/Forward-Traverse a Singly Linked List.md",
+    "C++/abs().md",
+    "C++/Strings in C++.md",
     "C++/Unordered Maps.md",
     "C++/Stacks.md",
     "C++/find().md",
-    "C++/Forward-Traverse a Singly Linked List.md",
-    "C++/Reverse-Traverse a Singly Linked List.md",
     "C++/npos.md",
-    "C++/Questions/14. Longest Common Prefix.md",
     "C++/Queues.md",
     "C++/Linked Lists.md",
     "C++/Vectors.md",
@@ -174,7 +175,6 @@
     "Troubleshooting IP Networks/Troubleshooting OSPF Networks.md",
     "Troubleshooting IP Networks/Troubleshooting IPv6 Networks.md",
     "Troubleshooting IP Networks/Troubleshooting IPv4 Networks.md",
-    "Troubleshooting IP Networks/Troubleshooting IP Networks.md",
     "Python",
     "C",
     "C++",
