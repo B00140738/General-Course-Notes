@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Questions/32. Reverse Linked List Total.md",
+                "file": "C++/Questions/20. Valid Parentheses.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Questions/32. Reverse Linked List Total.md",
+                "file": "C++/Questions/20. Valid Parentheses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Questions/32. Reverse Linked List Total.md",
+                "file": "C++/Questions/20. Valid Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Questions/32. Reverse Linked List Total.md"
+                "file": "C++/Questions/20. Valid Parentheses.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "f3ff188eed5387b9",
   "lastOpenFiles": [
-    "C++/Questions/31. Reverse Negative Integer.md",
+    "C++/Questions/Untitled.md",
+    "C++/Questions/2. Add Two Numbers.md",
     "C++/Questions/32. Reverse Linked List Total.md",
+    "C++/Questions/31. Reverse Negative Integer.md",
     "C++/Questions/20. Valid Parentheses.md",
     "C++/Questions/14. Longest Common Prefix.md",
     "C++/Questions/13. Roman to Integer.md",
@@ -173,8 +175,6 @@
     "Troubleshooting IP Networks/Dual-Stack Networks.md",
     "Troubleshooting IP Networks/Troubleshooting BGP & eBGP Networks.md",
     "Troubleshooting IP Networks/Troubleshooting OSPF Networks.md",
-    "Troubleshooting IP Networks/Troubleshooting IPv6 Networks.md",
-    "Troubleshooting IP Networks/Troubleshooting IPv4 Networks.md",
     "Python",
     "C",
     "C++",
