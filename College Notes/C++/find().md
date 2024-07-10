@@ -4,7 +4,7 @@ Additionally this can also be used conditionally in both WHILE and FOR loops. Fo
 
 #### FOR Loop:
 
-```
+```cpp
 #include <string>
 using namespace std;
 

@@ -22,3 +22,22 @@
 In summary, `size_t` is a fundamental part of C/C++ programming, particularly when dealing with sizes, indices, and memory management. Its use helps ensure code is robust, portable, and compatible with the C/C++ standard library.
 
 ### `size_t` in action
+
+
+> [!NOTE]
+> since `size_t` represents a **non-negative (positive) integer**, we can use it as a loop condition so we don't go to a negative value.
+> 
+
+
+```cpp
+#include <cstddef>
+
+void printArray(const int* arr, size_t size) 
+{
+    for (size_t i = 0; i < size; ++i) 
+    {
+        std::cout << arr[i] << " ";
+    }
+    std::cout << std::endl;
+}
+```

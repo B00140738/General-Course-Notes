@@ -2,7 +2,9 @@ The "Abstract Factory" Design Pattern allows us to **easily create families of r
 
 In simpler terms, **the Abstract Factory pattern helps in creating objects that belong to a common family and ensures that these objects are compatible with each other**. It promotes flexibility and extensibility by **allowing the client code to work with abstract interfaces instead of specific classes**, enabling easy substitution of entire families of objects without altering the client code.
 
-		public abstract class AbstractFactory {
+
+```Java
+public abstract class AbstractFactory {
 			//Abstract method (Overriden later through Polymorphism)
 			abstract Shape getShape(String shapeType);
 		}
@@ -19,6 +21,7 @@ In simpler terms, **the Abstract Factory pattern helps in creating objects that 
 				return null;
 			}
 		}
+```
 
 The key components of the Abstract Factory pattern include:
 
