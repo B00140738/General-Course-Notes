@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/size_t.md",
+                "file": "Malware Development/CreateProcess().md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/size_t.md",
+                "file": "Malware Development/CreateProcess().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/size_t.md",
+                "file": "Malware Development/CreateProcess().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/size_t.md"
+                "file": "Malware Development/CreateProcess().md"
               }
             }
           }
@@ -161,32 +161,34 @@
   },
   "active": "086f478e615f4e26",
   "lastOpenFiles": [
-    "C/size_t.md",
-    "C++/Questions/2. Add Two Numbers.md",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Object Orientated Desgin Patterns/Abstraction.md",
     "Object Orientated Desgin Patterns/Adapter.md",
     "Object Orientated Desgin Patterns/Bridge.md",
     "Object Orientated Desgin Patterns/Builder.md",
+    "Malware Development/CreateProcess().md",
+    "Malware Development/GetLastError().md",
+    "C++/Questions/2. Add Two Numbers.md",
+    "C++/Questions/7. Reverse Integer.md",
+    "C++/Questions/13. Roman to Integer.md",
+    "C++/Questions/9. Palindrome Number.md",
+    "C++/Questions/14. Longest Common Prefix.md",
+    "C++/Questions/33. Factorial for a given number.md",
+    "C++/Questions/32. Reverse Linked List Total.md",
     "C++/abs().md",
     "C++/find().md",
     "C++/Forward-Traverse a Singly Linked List.md",
     "C++/Linked Lists.md",
-    "C++/Reverse-Traverse a Singly Linked List.md",
-    "C++/Questions/33. Factorial for a given number.md",
     "C++/npos.md",
-    "C++/Questions/32. Reverse Linked List Total.md",
-    "C++/Questions/20. Valid Parentheses.md",
-    "C++/Questions/31. Reverse Negative Integer.md",
-    "C++/Questions/14. Longest Common Prefix.md",
-    "C++/Questions/13. Roman to Integer.md",
-    "C++/Questions/9. Palindrome Number.md",
-    "C++/Questions/7. Reverse Integer.md",
     "C++/Positive and Negative Values.md",
+    "C++/Queues.md",
+    "C++/Reverse-Traverse a Singly Linked List.md",
+    "C++/Stacks.md",
     "C++/Strings in C++.md",
     "C++/Unordered Maps.md",
-    "C++/Stacks.md",
-    "C++/Queues.md",
+    "C++/Vectors.md",
+    "Malware Development/Untitled",
+    "Malware Development",
     "C++/Questions",
     "Python",
     "C",
