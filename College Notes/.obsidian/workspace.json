@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd72ea217cba272",
+        "id": "2bf573cbb15b04a4",
         "type": "tabs",
         "children": [
           {
-            "id": "f3ff188eed5387b9",
+            "id": "a49c8b0f8a7f4484",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "086f478e615f4e26",
+            "id": "ed46c651e4e2e94a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,16 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "086f478e615f4e26",
+  "active": "ed46c651e4e2e94a",
   "lastOpenFiles": [
+    "C++/Questions/2. Add Two Numbers.md",
+    "Malware Development/CreateProcess().md",
+    "Malware Development/Processes.md",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Object Orientated Desgin Patterns/Abstraction.md",
     "Object Orientated Desgin Patterns/Adapter.md",
     "Object Orientated Desgin Patterns/Bridge.md",
     "Object Orientated Desgin Patterns/Builder.md",
-    "Malware Development/CreateProcess().md",
     "Malware Development/GetLastError().md",
-    "C++/Questions/2. Add Two Numbers.md",
     "C++/Questions/7. Reverse Integer.md",
     "C++/Questions/13. Roman to Integer.md",
     "C++/Questions/9. Palindrome Number.md",
@@ -186,7 +187,6 @@
     "C++/Stacks.md",
     "C++/Strings in C++.md",
     "C++/Unordered Maps.md",
-    "C++/Vectors.md",
     "Malware Development/Untitled",
     "Malware Development",
     "C++/Questions",
