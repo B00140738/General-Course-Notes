@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Malware Development/CreateProcess().md",
+                "file": "C++/Sorting Algorithms/Bubble Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Malware Development/CreateProcess().md",
+                "file": "C++/Sorting Algorithms/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Malware Development/CreateProcess().md",
+                "file": "C++/Sorting Algorithms/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Malware Development/CreateProcess().md"
+                "file": "C++/Sorting Algorithms/Bubble Sort.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "ed46c651e4e2e94a",
   "lastOpenFiles": [
-    "C++/Questions/2. Add Two Numbers.md",
+    "C++/Arrays.md",
+    "C++/Sorting Algorithms/Bubble Sort.md",
     "Malware Development/CreateProcess().md",
+    "C++/Questions/2. Add Two Numbers.md",
+    "Malware Development/Handles.md",
+    "C++/Sorting Algorithms",
     "Malware Development/Processes.md",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Object Orientated Desgin Patterns/Abstraction.md",
@@ -184,9 +188,6 @@
     "C++/Positive and Negative Values.md",
     "C++/Queues.md",
     "C++/Reverse-Traverse a Singly Linked List.md",
-    "C++/Stacks.md",
-    "C++/Strings in C++.md",
-    "C++/Unordered Maps.md",
     "Malware Development/Untitled",
     "Malware Development",
     "C++/Questions",
@@ -195,7 +196,6 @@
     "C++",
     "Artificial Intelligence (AI)/Human Language Technologies",
     "Artificial Intelligence (AI)/Computer Vision",
-    "Artificial Intelligence (AI)",
-    "Functional Programming"
+    "Artificial Intelligence (AI)"
   ]
 }
