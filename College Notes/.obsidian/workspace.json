@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bf573cbb15b04a4",
+        "id": "7f16ea8e9ff22194",
         "type": "tabs",
         "children": [
           {
-            "id": "a49c8b0f8a7f4484",
+            "id": "54119ac06100c097",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Questions/2. Add Two Numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed46c651e4e2e94a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Sorting Algorithms/Bubble Sort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Sorting Algorithms/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Sorting Algorithms/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/Sorting Algorithms/Bubble Sort.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,12 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed46c651e4e2e94a",
+  "active": "54119ac06100c097",
   "lastOpenFiles": [
-    "C++/Arrays.md",
-    "C++/Sorting Algorithms/Bubble Sort.md",
+    "C++/Sorting Algorithms/Quick Sort.md",
+    "Media/Quick Sort Demonstration.mkv",
     "Malware Development/CreateProcess().md",
+    "Malware Development/Shellcode.md",
+    "Malware Development/Exit Codes.md",
+    "Malware Development/Zombie Processes.md",
+    "Artificial Intelligence (AI)/Computer Vision/Caer.md",
     "C++/Questions/2. Add Two Numbers.md",
+    "Media",
+    "C++/Sorting Algorithms/Bubble Sort.md",
+    "C++/Arrays.md",
     "Malware Development/Handles.md",
     "C++/Sorting Algorithms",
     "Malware Development/Processes.md",
@@ -182,20 +168,12 @@
     "C++/Questions/32. Reverse Linked List Total.md",
     "C++/abs().md",
     "C++/find().md",
-    "C++/Forward-Traverse a Singly Linked List.md",
-    "C++/Linked Lists.md",
-    "C++/npos.md",
-    "C++/Positive and Negative Values.md",
-    "C++/Queues.md",
-    "C++/Reverse-Traverse a Singly Linked List.md",
     "Malware Development/Untitled",
     "Malware Development",
     "C++/Questions",
     "Python",
     "C",
     "C++",
-    "Artificial Intelligence (AI)/Human Language Technologies",
-    "Artificial Intelligence (AI)/Computer Vision",
-    "Artificial Intelligence (AI)"
+    "Artificial Intelligence (AI)/Human Language Technologies"
   ]
 }
