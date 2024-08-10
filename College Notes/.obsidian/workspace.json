@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f16ea8e9ff22194",
+        "id": "15256679f7119304",
         "type": "tabs",
         "children": [
           {
-            "id": "54119ac06100c097",
+            "id": "09f18f47b5fc7f3a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,12 +138,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54119ac06100c097",
+  "active": "09f18f47b5fc7f3a",
   "lastOpenFiles": [
+    "C/Extern.md",
+    "C/size_t.md",
+    "C++/abs().md",
+    "Malware Development/Shellcode/Unmanaged Code.md",
+    "Malware Development/Shellcode/Managed Code.md",
+    "Malware Development/Shellcode/Shellcode.md",
+    "Malware Development/Processes.md",
+    "Malware Development/Shellcode.md",
+    "Malware Development/Shellcode/Payloads.md",
+    "Malware Development/Shellcode",
     "C++/Sorting Algorithms/Quick Sort.md",
     "Media/Quick Sort Demonstration.mkv",
     "Malware Development/CreateProcess().md",
-    "Malware Development/Shellcode.md",
     "Malware Development/Exit Codes.md",
     "Malware Development/Zombie Processes.md",
     "Artificial Intelligence (AI)/Computer Vision/Caer.md",
@@ -153,7 +162,6 @@
     "C++/Arrays.md",
     "Malware Development/Handles.md",
     "C++/Sorting Algorithms",
-    "Malware Development/Processes.md",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Object Orientated Desgin Patterns/Abstraction.md",
     "Object Orientated Desgin Patterns/Adapter.md",
@@ -162,13 +170,6 @@
     "Malware Development/GetLastError().md",
     "C++/Questions/7. Reverse Integer.md",
     "C++/Questions/13. Roman to Integer.md",
-    "C++/Questions/9. Palindrome Number.md",
-    "C++/Questions/14. Longest Common Prefix.md",
-    "C++/Questions/33. Factorial for a given number.md",
-    "C++/Questions/32. Reverse Linked List Total.md",
-    "C++/abs().md",
-    "C++/find().md",
-    "Malware Development/Untitled",
     "Malware Development",
     "C++/Questions",
     "Python",
