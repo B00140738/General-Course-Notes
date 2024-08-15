@@ -11,8 +11,12 @@
             "id": "09f18f47b5fc7f3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "09f18f47b5fc7f3a",
   "lastOpenFiles": [
+    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+    "C++/Sorting Algorithms/Quick Sort.md",
+    "C++/Sorting Algorithms/Bubble Sort.md",
     "C/Extern.md",
     "C/size_t.md",
     "C++/abs().md",
@@ -150,7 +161,6 @@
     "Malware Development/Shellcode.md",
     "Malware Development/Shellcode/Payloads.md",
     "Malware Development/Shellcode",
-    "C++/Sorting Algorithms/Quick Sort.md",
     "Media/Quick Sort Demonstration.mkv",
     "Malware Development/CreateProcess().md",
     "Malware Development/Exit Codes.md",
@@ -158,7 +168,6 @@
     "Artificial Intelligence (AI)/Computer Vision/Caer.md",
     "C++/Questions/2. Add Two Numbers.md",
     "Media",
-    "C++/Sorting Algorithms/Bubble Sort.md",
     "C++/Arrays.md",
     "Malware Development/Handles.md",
     "C++/Sorting Algorithms",
@@ -169,7 +178,6 @@
     "Object Orientated Desgin Patterns/Builder.md",
     "Malware Development/GetLastError().md",
     "C++/Questions/7. Reverse Integer.md",
-    "C++/Questions/13. Roman to Integer.md",
     "Malware Development",
     "C++/Questions",
     "Python",
