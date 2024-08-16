@@ -11,12 +11,8 @@
             "id": "09f18f47b5fc7f3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,23 +140,28 @@
   },
   "active": "09f18f47b5fc7f3a",
   "lastOpenFiles": [
-    "Malware Development/CreateProcess().md",
+    "C++/References.md",
+    "C++/Questions/28. Find the Index of the First Occurrence in a String.md",
     "C++/Sorting Algorithms/Sliding Window.md",
-    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
-    "C++/Sorting Algorithms/Quick Sort.md",
-    "C++/Sorting Algorithms/Bubble Sort.md",
-    "C/Extern.md",
-    "C/size_t.md",
-    "C++/abs().md",
+    "Malware Development/CreateProcess().md",
     "Malware Development/Shellcode/Unmanaged Code.md",
     "Malware Development/Shellcode/Managed Code.md",
+    "Malware Development/Exit Codes.md",
+    "C/size_t.md",
+    "Malware Development/GetLastError().md",
+    "C++/Vectors.md",
+    "C++/Sorting Algorithms/Quick Sort.md",
+    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+    "C++/Questions/27. Remove Element.md",
+    "C++/Sorting Algorithms/Bubble Sort.md",
+    "C/Extern.md",
+    "C++/abs().md",
     "Malware Development/Shellcode/Shellcode.md",
     "Malware Development/Processes.md",
     "Malware Development/Shellcode.md",
     "Malware Development/Shellcode/Payloads.md",
     "Malware Development/Shellcode",
     "Media/Quick Sort Demonstration.mkv",
-    "Malware Development/Exit Codes.md",
     "Malware Development/Zombie Processes.md",
     "Artificial Intelligence (AI)/Computer Vision/Caer.md",
     "C++/Questions/2. Add Two Numbers.md",
@@ -173,11 +170,6 @@
     "Malware Development/Handles.md",
     "C++/Sorting Algorithms",
     "Object Orientated Desgin Patterns/Abstract Factory.md",
-    "Object Orientated Desgin Patterns/Abstraction.md",
-    "Object Orientated Desgin Patterns/Adapter.md",
-    "Object Orientated Desgin Patterns/Bridge.md",
-    "Object Orientated Desgin Patterns/Builder.md",
-    "Malware Development/GetLastError().md",
     "Malware Development",
     "C++/Questions",
     "Python",
