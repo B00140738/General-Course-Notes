@@ -69,6 +69,20 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "path:\"C++/Graphics Programming\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Malware Development\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.37381214132023,
+  "scale": 0.2666310280340728,
   "close": true
 }
