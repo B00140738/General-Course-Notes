@@ -11,8 +11,12 @@
             "id": "09f18f47b5fc7f3a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md"
+              }
             }
           }
         ]
@@ -140,9 +148,17 @@
   },
   "active": "09f18f47b5fc7f3a",
   "lastOpenFiles": [
-    "C++/References.md",
+    "C++/Questions/27. Remove Element.md",
+    "C++/Questions/14. Longest Common Prefix.md",
+    "C++/Questions/20. Valid Parentheses.md",
+    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
     "C++/Questions/28. Find the Index of the First Occurrence in a String.md",
+    "C++/Questions/31. Reverse Negative Integer.md",
+    "C++/Questions/32. Reverse Linked List Total.md",
+    "C++/Questions/33. Factorial for a given number.md",
+    "C++/Questions/Untitled.md",
     "C++/Sorting Algorithms/Sliding Window.md",
+    "C++/References.md",
     "Malware Development/CreateProcess().md",
     "Malware Development/Shellcode/Unmanaged Code.md",
     "Malware Development/Shellcode/Managed Code.md",
@@ -151,8 +167,6 @@
     "Malware Development/GetLastError().md",
     "C++/Vectors.md",
     "C++/Sorting Algorithms/Quick Sort.md",
-    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
-    "C++/Questions/27. Remove Element.md",
     "C++/Sorting Algorithms/Bubble Sort.md",
     "C/Extern.md",
     "C++/abs().md",
@@ -162,14 +176,8 @@
     "Malware Development/Shellcode/Payloads.md",
     "Malware Development/Shellcode",
     "Media/Quick Sort Demonstration.mkv",
-    "Malware Development/Zombie Processes.md",
-    "Artificial Intelligence (AI)/Computer Vision/Caer.md",
-    "C++/Questions/2. Add Two Numbers.md",
     "Media",
-    "C++/Arrays.md",
-    "Malware Development/Handles.md",
     "C++/Sorting Algorithms",
-    "Object Orientated Desgin Patterns/Abstract Factory.md",
     "Malware Development",
     "C++/Questions",
     "Python",
