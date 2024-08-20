@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+                "file": "C++/Questions/66. Plus One.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+                "file": "C++/Questions/66. Plus One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+                "file": "C++/Questions/66. Plus One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Questions/26. Remove Duplicates from Sorted Array.md"
+                "file": "C++/Questions/66. Plus One.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "09f18f47b5fc7f3a",
   "lastOpenFiles": [
+    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+    "C++/Questions/66. Plus One.md",
     "C++/Questions/27. Remove Element.md",
     "C++/Questions/14. Longest Common Prefix.md",
     "C++/Questions/20. Valid Parentheses.md",
-    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
     "C++/Questions/28. Find the Index of the First Occurrence in a String.md",
     "C++/Questions/31. Reverse Negative Integer.md",
     "C++/Questions/32. Reverse Linked List Total.md",
     "C++/Questions/33. Factorial for a given number.md",
-    "C++/Questions/Untitled.md",
     "C++/Sorting Algorithms/Sliding Window.md",
     "C++/References.md",
     "Malware Development/CreateProcess().md",
