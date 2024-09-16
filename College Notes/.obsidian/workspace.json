@@ -11,8 +11,12 @@
             "id": "d42b97e3aa990e4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ubiquituous Computing/App Development/XML Components.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ubiquituous Computing/App Development/XML Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ubiquituous Computing/App Development/XML Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ubiquituous Computing/App Development/XML Components.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74ea35d8ba2ca5cd",
+  "active": "d42b97e3aa990e4f",
   "lastOpenFiles": [
+    "Ubiquituous Computing/App Development/Android Studio.md",
+    "Ubiquituous Computing/App Development/XML Components.md",
+    "Ubiquituous Computing/App Development",
     "Ubiquituous Computing",
     "C++/Sorting Algorithms/Bubble Sort.md",
     "C++/Sorting Algorithms/Quick Sort.md",
@@ -166,15 +177,12 @@
     "Malware Development/Exit Codes.md",
     "C/size_t.md",
     "Malware Development/GetLastError().md",
-    "C++/Vectors.md",
     "Malware Development/Shellcode",
     "Media/Quick Sort Demonstration.mkv",
     "Media",
     "C++/Sorting Algorithms",
     "Malware Development",
     "C++/Questions",
-    "Python",
-    "C",
-    "C++"
+    "Python"
   ]
 }
