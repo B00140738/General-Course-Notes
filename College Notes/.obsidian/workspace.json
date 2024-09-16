@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "63cffab0ef3b2bb4",
+        "id": "5c98491c942b2633",
         "type": "tabs",
         "children": [
           {
-            "id": "d42b97e3aa990e4f",
+            "id": "37744d76fe1addc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubiquituous Computing/App Development/XML Components.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d42b97e3aa990e4f",
+  "active": "74ea35d8ba2ca5cd",
   "lastOpenFiles": [
     "Ubiquituous Computing/App Development/Android Studio.md",
     "Ubiquituous Computing/App Development/XML Components.md",
