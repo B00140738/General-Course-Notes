@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15256679f7119304",
+        "id": "63cffab0ef3b2bb4",
         "type": "tabs",
         "children": [
           {
-            "id": "09f18f47b5fc7f3a",
+            "id": "d42b97e3aa990e4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Sorting Algorithms/Sliding Window.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Sorting Algorithms/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Sorting Algorithms/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "C++/Sorting Algorithms/Sliding Window.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09f18f47b5fc7f3a",
+  "active": "74ea35d8ba2ca5cd",
   "lastOpenFiles": [
+    "Ubiquituous Computing",
+    "C++/Sorting Algorithms/Bubble Sort.md",
+    "C++/Sorting Algorithms/Quick Sort.md",
+    "C++/Sorting Algorithms/Sliding Window.md",
     "C++/Questions/1929. Concatenation of Array.md",
     "C++/Questions/217. Contains Duplicate.md",
     "C++/Questions/169. Majority Element.md",
     "C++/Questions/14. Longest Common Prefix.md",
-    "C++/Sorting Algorithms/Quick Sort.md",
-    "C++/Sorting Algorithms/Bubble Sort.md",
-    "C++/Sorting Algorithms/Sliding Window.md",
     "C++/Questions/136. Single Number.md",
     "C++/Questions/66. Plus One.md",
     "C++/Graphics Programming/Vertex Shader.md",
@@ -174,7 +167,6 @@
     "C/size_t.md",
     "Malware Development/GetLastError().md",
     "C++/Vectors.md",
-    "C/Extern.md",
     "Malware Development/Shellcode",
     "Media/Quick Sort Demonstration.mkv",
     "Media",
