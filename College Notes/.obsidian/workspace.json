@@ -11,7 +11,7 @@
             "id": "37744d76fe1addc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ubiquituous Computing/App Development/XML Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ubiquituous Computing/App Development/XML Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ubiquituous Computing/App Development/XML Components.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74ea35d8ba2ca5cd",
+  "active": "37744d76fe1addc3",
   "lastOpenFiles": [
+    "C++/Questions/169. Majority Element.md",
+    "Applied Human Language Technology/Regular Expressions (RegEx).md",
+    "Applied Human Language Technology/Finite State Automata.md",
+    "Malware Development/CreateProcess().md",
+    "Applied Human Language Technology",
     "Ubiquituous Computing/App Development/Android Studio.md",
     "Ubiquituous Computing/App Development/XML Components.md",
     "Ubiquituous Computing/App Development",
@@ -153,7 +154,6 @@
     "C++/Sorting Algorithms/Sliding Window.md",
     "C++/Questions/1929. Concatenation of Array.md",
     "C++/Questions/217. Contains Duplicate.md",
-    "C++/Questions/169. Majority Element.md",
     "C++/Questions/14. Longest Common Prefix.md",
     "C++/Questions/136. Single Number.md",
     "C++/Questions/66. Plus One.md",
@@ -167,18 +167,14 @@
     "C++/Questions/32. Reverse Linked List Total.md",
     "C++/Questions/33. Factorial for a given number.md",
     "C++/References.md",
-    "Malware Development/CreateProcess().md",
     "Malware Development/Shellcode/Unmanaged Code.md",
     "Malware Development/Shellcode/Managed Code.md",
     "Malware Development/Exit Codes.md",
-    "C/size_t.md",
-    "Malware Development/GetLastError().md",
     "Malware Development/Shellcode",
     "Media/Quick Sort Demonstration.mkv",
     "Media",
     "C++/Sorting Algorithms",
     "Malware Development",
-    "C++/Questions",
-    "Python"
+    "C++/Questions"
   ]
 }
