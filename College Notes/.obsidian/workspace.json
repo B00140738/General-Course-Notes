@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37744d76fe1addc3",
+  "active": "74ea35d8ba2ca5cd",
   "lastOpenFiles": [
+    "4th Year Major Project/Meeting Notes",
+    "4th Year Major Project",
     "C++/Questions/169. Majority Element.md",
     "Applied Human Language Technology/Regular Expressions (RegEx).md",
     "Applied Human Language Technology/Finite State Automata.md",
@@ -169,12 +171,10 @@
     "C++/References.md",
     "Malware Development/Shellcode/Unmanaged Code.md",
     "Malware Development/Shellcode/Managed Code.md",
-    "Malware Development/Exit Codes.md",
     "Malware Development/Shellcode",
     "Media/Quick Sort Demonstration.mkv",
     "Media",
     "C++/Sorting Algorithms",
-    "Malware Development",
-    "C++/Questions"
+    "Malware Development"
   ]
 }
