@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5c98491c942b2633",
+        "id": "32ac21aab70b45c9",
         "type": "tabs",
         "children": [
           {
-            "id": "37744d76fe1addc3",
+            "id": "907270245d0a4700",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,12 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37744d76fe1addc3",
+  "active": "907270245d0a4700",
   "lastOpenFiles": [
+    "4th Year Major Project/Meeting Notes/Meeting 2    02-10-24.md",
     "4th Year Major Project/Meeting Notes/Meeting 1    25-09-24.md",
     "4th Year Major Project/Project Diary/Diary - Week 2.md",
     "4th Year Major Project/Project Diary/Diary - Week 1.md",
-    "4th Year Major Project/Meeting Notes/Meeting 2    02-10-24.md",
     "4th Year Major Project/Project Diary",
     "4th Year Major Project/Meeting Notes",
     "4th Year Major Project",
