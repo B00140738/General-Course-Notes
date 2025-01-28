@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80769ce5f7728e8d",
+        "id": "733b79bc07c8c9ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5a0d6693dd7749e2",
+            "id": "3e513dcda47be431",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +109,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -138,43 +154,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a0d6693dd7749e2",
+  "active": "3e513dcda47be431",
   "lastOpenFiles": [
-    "4th Year Major Project/Meeting Notes/Meeting 2    02-10-24.md",
-    "4th Year Major Project/Meeting Notes/Meeting 1    25-09-24.md",
-    "4th Year Major Project/Project Diary/Diary - Week 2.md",
-    "4th Year Major Project/Project Diary/Diary - Week 1.md",
+    "C++/Questions/11. Container with most water.md",
+    "Artificial Intelligence (AI)/Computational Intelligence/Computational Intelligence.md",
+    "Artificial Intelligence (AI)/Artificial Intelligence.md",
+    "Artificial Intelligence (AI)/Computational Intelligence/Evolutionary Intelligence.md",
+    "Artificial Intelligence (AI)/Computational Intelligence/Swarm Intelligence.md",
+    "Artificial Intelligence (AI)/Computational Intelligence/Artificial Neural Networks.md",
+    "Artificial Intelligence (AI)/Computational Intelligence/Fuzzy Logic.md",
+    "Artificial Intelligence (AI)/Computational Intelligence",
+    "Computational Intelligence",
+    "Algorithms/Double Pointers.md",
+    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
+    "C++/Questions/20. Valid Parentheses.md",
+    "C++/Questions/14. Longest Common Prefix.md",
+    "C++/Questions/13. Roman to Integer.md",
+    "C++/Questions/9. Palindrome Number.md",
+    "C++/Questions/7. Reverse Integer.md",
+    "C++/Questions/2. Add Two Numbers.md",
+    "C++/Questions/1. Two Sum.md",
+    "C++/Questions/28. Find the Index of the First Occurrence in a String.md",
+    "Algorithms/How To Study.md",
+    "C++/Questions/35. Search Insert Position.md",
+    "C++/Questions/Keyword to Algorithm.md",
+    "Algorithms/Math Basics.md",
+    "Algorithms/Kadane's Algorithm.md",
+    "Algorithms",
+    "Data Analytics/Classification.md",
+    "Data Analytics/Introduction.md",
+    "Data Analytics/Data Understanding.md",
+    "Data Analytics/Data Preperation.md",
+    "Artificial Intelligence (AI)/PyTorch",
+    "Data Analytics",
     "4th Year Major Project/Project Diary",
     "4th Year Major Project/Meeting Notes",
     "4th Year Major Project",
-    "C++/Questions/169. Majority Element.md",
-    "Applied Human Language Technology/Regular Expressions (RegEx).md",
-    "Applied Human Language Technology/Finite State Automata.md",
-    "Malware Development/CreateProcess().md",
     "Applied Human Language Technology",
-    "Ubiquituous Computing/App Development/Android Studio.md",
-    "Ubiquituous Computing/App Development/XML Components.md",
-    "Ubiquituous Computing/App Development",
-    "Ubiquituous Computing",
-    "C++/Sorting Algorithms/Bubble Sort.md",
-    "C++/Sorting Algorithms/Quick Sort.md",
-    "C++/Sorting Algorithms/Sliding Window.md",
-    "C++/Questions/1929. Concatenation of Array.md",
-    "C++/Questions/217. Contains Duplicate.md",
-    "C++/Questions/14. Longest Common Prefix.md",
-    "C++/Questions/136. Single Number.md",
-    "C++/Questions/66. Plus One.md",
-    "C++/Graphics Programming/Vertex Shader.md",
-    "C++/Graphics Programming",
-    "C++/Questions/26. Remove Duplicates from Sorted Array.md",
-    "C++/Questions/27. Remove Element.md",
-    "C++/Questions/20. Valid Parentheses.md",
-    "C++/Questions/28. Find the Index of the First Occurrence in a String.md",
-    "C++/Questions/31. Reverse Negative Integer.md",
-    "C++/Questions/32. Reverse Linked List Total.md",
-    "C++/Questions/33. Factorial for a given number.md",
-    "Malware Development/Shellcode",
-    "Media/Quick Sort Demonstration.mkv",
-    "Media"
+    "Ubiquituous Computing/App Development"
   ]
 }
