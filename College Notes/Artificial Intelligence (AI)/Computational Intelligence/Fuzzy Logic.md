@@ -17,7 +17,7 @@ A **fuzzy logic system** is designed to handle imprecise or vague data by mimi
 
 ---
 
-### 2. **Knowledge Base**
+### 2. **Knowledge Base** (Rules)
 
 - **Two sub-components**:
     - **Fuzzy Rule Base**: A set of **IF-THEN rules** defined by experts (e.g., "IF temperature is hot, THEN fan speed is high").
