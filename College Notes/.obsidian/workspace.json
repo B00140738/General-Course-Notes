@@ -11,10 +11,14 @@
             "id": "3e513dcda47be431",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence (AI)/Computational Intelligence/Fuzzy Logic.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fuzzy Logic"
             }
           }
         ]
